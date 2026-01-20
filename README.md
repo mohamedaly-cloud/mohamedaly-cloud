@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohamed Aly! 👋
 **AWS Certified AI Practitioner | Cloud & DevOps Engineer**
 
-I am a cloud enthusiast based in **Barcelona**, currently transitioning from a background in **AI Data Analysis** (Apple/Telus) to full-time Cloud Engineering via the **AWS Re/Start** program.
+I am a cloud engineer and AI data specialist based in Barcelona. I leverage my background in high-volume AI data analysis (Apple/Telus) to build and secure resilient architectures on AWS.
 
 - 🔭 I’m currently building **Serverless Event-Driven Architectures** (see [El Niño](https://github.com/NoENoG/el-nino-lottery-aws)).
 - ☁️ **Certifications:**
