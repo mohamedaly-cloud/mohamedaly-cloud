@@ -12,5 +12,5 @@ I am a cloud engineer and AI data specialist based in Barcelona. I leverage my b
   - **Cloud:** AWS (Lambda, DynamoDB, S3, EventBridge)
   - **CI/CD:** GitHub Actions
   - **Languages:** Python, Bash, SQL
-- 💬 **Focus:** Reducing LLM hallucinations & deploying "Zero-Touch" serverless apps.
+- 💬 **Focus:** Building "Scale-to-Zero" serverless apps and optimizing AI logic.
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/mohamed-aly-cloud/)
