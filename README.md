@@ -1,16 +1,39 @@
-### Hi there, I'm Mohamed Aly! 👋
-**AWS Certified AI Practitioner | Cloud & DevOps Engineer**
+### Hi there, I'm Mohamed Aly!
 
-I am a cloud engineer and AI data specialist based in Barcelona. I leverage my background in high-volume AI data analysis (Apple/Telus) to build and secure resilient architectures on AWS.
+**Junior Cloud Engineer | AWS Certified Solutions Architect Associate**
 
-- 🔭 I’m currently building **Serverless Event-Driven Architectures** (see [El Niño](https://github.com/NoENoG/el-nino-lottery-aws)).
-- ☁️ **Certifications:**
-  - ![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white) *(Issued Jan 2026)*
-  - AWS Solutions Architect Associate *(In Progress)*
-- 🛠 **Tech Stack:**
-  - **IaC:** Terraform
-  - **Cloud:** AWS (Lambda, DynamoDB, S3, EventBridge)
-  - **CI/CD:** GitHub Actions
-  - **Languages:** Python, Bash, SQL
-- 💬 **Focus:** Building "Scale-to-Zero" serverless apps and optimizing AI logic.
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/mohamed-aly-cloud/)
+I am a Cloud Engineer based in Barcelona, specializing in building automated cloud platforms, scalable serverless pipelines, and reliable deployment workflows. I leverage my background in configuration management and high-volume technical data analysis to design and monitor resilient architectures on AWS.
+
+---
+
+### Certifications
+- **AWS Certified Solutions Architect – Associate** *(Issued April 2026)*
+- **AWS Certified Cloud Practitioner** *(Issued June 2026)*
+
+---
+
+### Core Tech Stack
+- **Cloud & Infrastructure:** AWS (Lambda, EventBridge, DynamoDB, S3, IAM, CloudFront, VPC)
+- **IaC & DevOps:** Terraform, GitHub Actions (CI/CD), Git, Linux/Unix, YAML
+- **Languages:** Python (Boto3), Bash, SQL
+
+---
+
+### Projects & Repositories
+- **Serverless Lottery Distribution Engine** | [El Niño](https://github.com/mohamedaly-cloud/el-nino-lottery-aws)
+  - *Architected an event-driven ingestion pipeline using EventBridge and Lambda to process high-concurrency results. Integrated GitHub Actions and Terraform for zero-touch infrastructure deployments and configured live observability dashboards.*
+- **High-Availability Lottery Automation** | [El Gordo](https://github.com/mohamedaly-cloud/el-gordo-automation)
+  - *Designed a serverless static web architecture utilizing AWS S3 and CloudFront caching strategies to ensure secure, fault-tolerant global availability.*
+
+---
+
+### Focus Areas
+- Building automated, scale-to-zero serverless applications.
+- Setting up robust CI/CD deployment pipelines.
+- Implementing cloud observability, monitoring solutions, and metrics dashboards.
+
+---
+
+### Contact & Connect
+- **LinkedIn:** [linkedin.com/in/mohamed-aly-cloud](https://www.linkedin.com/in/mohamed-aly-cloud/)
+- **Email:** mohamedaly.cloud@gmail.com
