@@ -8,7 +8,7 @@ I am a Cloud Engineer based in Barcelona, specializing in building automated clo
 
 ### Certifications
 - **AWS Certified Solutions Architect – Associate** *(Issued April 2026)*
-- **AWS Certified AI Practitioner** *(Issued Jan 2026)*
+- **AWS Certified AI Practitioner** *(Issued January 2026)*
 
 ---
 
